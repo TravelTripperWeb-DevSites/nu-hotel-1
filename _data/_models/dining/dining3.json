@@ -1,5 +1,27 @@
 {
   "name": "New Restaurant",
-  "description": "<p>New Restaurant</p>",
-  "order": 0
+  "description": "<p>New Restaurant that's actually a lovely fancy bar.</p>",
+  "order": 3,
+  "image": {
+    "url": "http://d2r4g49zv9n1lp.cloudfront.net/1168/40928_1_master.jpg",
+    "path": "http://d2r4g49zv9n1lp.cloudfront.net/1168/40928_1_master.jpg",
+    "file_type": null,
+    "name": "Image 2",
+    "tags": "gallery",
+    "url_large": null,
+    "url_thumb": null,
+    "url_medium": null,
+    "url_small": null,
+    "url_xsmall": null,
+    "width": null,
+    "height": null,
+    "file_size": null,
+    "alt": "Small bar and lounge",
+    "caption": "",
+    "description": ""
+  },
+  "short_description": "",
+  "tagline": "Lovely fancy bar",
+  "menu_url": "",
+  "reservations_url": "http://opentable.com"
 }
