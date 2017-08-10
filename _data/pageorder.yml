@@ -1,9 +1,9 @@
 ---
 paths:
-  - "/"
-  - "/about/"
-  - "/rooms/"
-  - "/offers/"
-  - "/dining/"
-  - "/destination/"
-  - "/gallery/"
+- "/"
+- "/rooms/"
+- "/about/"
+- "/offers/"
+- "/dining/"
+- "/destination/"
+- "/gallery/"
