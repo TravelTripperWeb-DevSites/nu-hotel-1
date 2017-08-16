@@ -1,14 +1,28 @@
 {
-    "title": "Big Monument",
-    "sub_title": "A must-see",
-    "category": "Sights",
-    "description": "<p>The most visited destination in town, this monument represents local history and culture.</p>",
-    "image": {
-      "url": "/assets/stock_images/tower-bridge.jpg",
-      "alt": "Monument"
-    },
-    "latitude": 40.7547385,
-    "longitude": -73.97681210000002,    
-    "featured": true,
-    "order": 1
+  "title": "Big Monument",
+  "sub_title": "A must-see",
+  "category": "Sights",
+  "description": "<p>The most visited destination in town, this monument represents local history and culture.</p>\n<p><img id=\"1502899734475\" class=\" \" src=\"https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_126_654/media/2017-08-10-131159/logo-image-hotelstpierre.png\" width=\"226\" height=\"123\" data-image-large=\"//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_126_654/media/2017-08-10-131159/large_logo_image-hotelstpierre.png\" data-image-medium=\"//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_126_654/media/2017-08-10-131159/medium_logo_image-hotelstpierre.png\" data-image-small=\"//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_126_654/media/2017-08-10-131159/small_logo_image-hotelstpierre.png\" data-image-xsmall=\"//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_126_654/media/2017-08-10-131159/xsmall_logo_image-hotelstpierre.png\" data-image-thumb=\"//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_126_654/media/2017-08-10-131159/thumb_logo_image-hotelstpierre.png\" /></p>",
+  "latitude": 40.7547385,
+  "longitude": -73.97681210000002,
+  "featured": true,
+  "order": 1,
+  "image": {
+    "url": "http://d2r4g49zv9n1lp.cloudfront.net/1168/40931_1_master.jpg",
+    "path": "http://d2r4g49zv9n1lp.cloudfront.net/1168/40931_1_master.jpg",
+    "file_type": null,
+    "name": "Image 5",
+    "tags": "gallery",
+    "url_large": null,
+    "url_thumb": null,
+    "url_medium": null,
+    "url_small": null,
+    "url_xsmall": null,
+    "width": null,
+    "height": null,
+    "file_size": null,
+    "alt": "bedroom",
+    "caption": "",
+    "description": ""
+  }
 }
