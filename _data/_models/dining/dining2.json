@@ -1,7 +1,7 @@
 {
   "name": "The Bar",
   "tagline": "Have a drink with us",
-  "description": "<p>Info about the bar</p>",
+  "description": "<p>Menu for the bar</p>\n<ul>\n<li>Scotch</li>\n<li>Scotch on Scotch (beer)</li>\n<li>Scoch Ale</li>\n</ul>",
   "image": {
     "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_126_654/media/2017-08-10-131159/logo-image-hotelstpierre.png",
     "path": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_126_654/media/2017-08-10-131159/logo-image-hotelstpierre.png",
