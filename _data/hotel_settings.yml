@@ -14,4 +14,4 @@ address:
   zip_code: '11201'
 _hotel_id: NUH877
 _portal_id: required-but-empty
-_root_path: https://qa4.ttaws.com/rt
+_root_path: https://qa5.ttaws.com/rt
