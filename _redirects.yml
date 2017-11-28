@@ -1,0 +1,7 @@
+---
+- abc: def
+- abc/: def
+- Abc: def
+- Abc/: def
+- ABC: def
+- ABC/: def
